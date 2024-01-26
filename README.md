@@ -1,0 +1,4 @@
+- 👋 Hi, I’m HafizAbdullah.
+- 🎓 I'm currently a First Year student of Computer Science at FAST NUCES Islamabad 
+- 👀 I’m interested in Programming, Learning Languages, and Playing Football
+- 🌱 I’m currently learning C++ and German Language.
