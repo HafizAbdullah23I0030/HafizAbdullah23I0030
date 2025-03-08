@@ -62,8 +62,8 @@
 
 ### 📌 Featured Projects  
 - 🎮 **[GameBoy Project](https://github.com/HafizAbdullah23I0030/GameBoy-1)** (C++, SFML)   
-- 🎮 **[Breakout](#https://github.com/HafizAbdullah23I0030/Breakout)** (C++, SFML)
-- 🌐 **[Civix Website](#https://github.com/HafizAbdullah23I0030/HafizAbdullah23I0030.github.io)** (HTML, CSS, JavaScript)
+- 🎮 **[Breakout](https://github.com/HafizAbdullah23I0030/Breakout)** (C++, SFML)
+- 🌐 **[Civix Website](https://github.com/HafizAbdullah23I0030/HafizAbdullah23I0030.github.io)** (HTML, CSS, JavaScript)
 
 ---
 
